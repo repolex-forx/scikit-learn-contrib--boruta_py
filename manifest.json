@@ -1,0 +1,33 @@
+{
+  "manifest_version": "1.0",
+  "org": "scikit-learn-contrib",
+  "repo": "boruta_py",
+  "versions": [
+    {
+      "commit": "dd7b020cdc23c98fe908c14771cbf931dc8b7e62",
+      "parsed_at": "2026-10-15T21:31:59.819450+00:00",
+      "filetree": "filetree/dd7b020cdc23c98fe908c14771cbf931dc8b7e62.nq.gz",
+      "blobs": [
+        "blob/c241e2015be1716a875974499b20b2ec13a0433a.nq.gz",
+        "blob/64a36913c12ff81a237bf337e48aecf70f9bf15f.nq.gz",
+        "blob/d2a2d0a95e6adf3cf9ce1fd57609e3019e2a6f07.nq.gz",
+        "blob/eedc6fd18f06a32282d3280a1c022e13a6c50228.nq.gz",
+        "blob/e22d5f149b24548fdda08b6806a3394f0907158f.nq.gz",
+        "blob/d8430e593725e89821b61b4bde907c555f0c2092.nq.gz",
+        "blob/b7da0d9eb762bc3d3c91a080e47f63e3a63d0f5b.nq.gz",
+        "blob/8d9ea4529562501db5887b44b12568ed8dc8cc8d.nq.gz",
+        "blob/45abf2d97a5aa2b3004db7e47111ec6dbd9a5664.nq.gz",
+        "blob/38d1112de7fcceb78dea8981e93b7f87bc781232.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/4160bb0a715c0ddc6f5ab3b861bb3b7622f98a99.nq.gz",
+        "blob/0486d0ec58a10e3b8c7586ac8fca48dc62f8485e.nq.gz",
+        "blob/29e70318e88059f1d75e39350cb67bc98b08b625.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
