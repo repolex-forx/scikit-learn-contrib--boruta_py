@@ -1,0 +1,11 @@
+{
+  "org": "scikit-learn-contrib",
+  "repo": "boruta_py",
+  "versions": [
+    {
+      "commit": "dd7b020cdc23c98fe908c14771cbf931dc8b7e62",
+      "tag": "",
+      "parsed_at": "2026-10-15T21:34:07.147963+00:00"
+    }
+  ]
+}
