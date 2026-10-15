@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/scikit-learn-contrib/boruta_py/commit/dd7b020cdc23c98fe908c14771cbf931dc8b7e62",
       "git:hexsha": "dd7b020cdc23c98fe908c14771cbf931dc8b7e62",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/scikit-learn-contrib/boruta_py/commit/7b03f20217c1ff28ed6d381f9c50ec0ad8e5d446",
